@@ -1,0 +1,10 @@
+.p-destacados .card img
+{
+    height:200px;
+    object-fit:cover;
+}
+
+.p-destacados .card
+{
+    height:100%
+}
